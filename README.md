@@ -7,7 +7,9 @@ Has a strong interest in improving project velocity and reducing waste by implem
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://au.linkedin.com/pub/sean-dawson/52/362/541)
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoxHarmonium)
+
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](
 https://stackoverflow.com/users/1153203/sean-dawson)
 
