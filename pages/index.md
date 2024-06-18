@@ -11,6 +11,8 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 I'm a Senior software engineer with over ten years of experience developing software in a broad range of fields from mobile and games development, to cloud systems integration and full stack web application development.
 
+When I'm not doing my day job, I'm currently focused on building a retro console from scratch (starting with a simulator). The project is called SIRC and can be found at [https://github.com/NoxHarmonium/sirc](https://github.com/NoxHarmonium/sirc)
+
 For my resume, check out my [LinkedIn profile](https://www.linkedin.com/in/seanpdawson/)
 
 ## Links
