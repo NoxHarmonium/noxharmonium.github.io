@@ -9,12 +9,8 @@ weight: 1
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
-<div id="container" class="my-2">
-    <div id="dummy"></div>
-    <div id="element">
-    <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image">
-    </div>
-</div>
+<img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image" style="width: unset; height: unset; margin-bottom: 1rem;"
+>
 
 I'm a Senior software engineer with over ten years of experience developing software in a broad range of fields from mobile and games development, to cloud systems integration and full stack web application development.
 
