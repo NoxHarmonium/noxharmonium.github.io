@@ -9,6 +9,13 @@ weight: 1
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 
+<div id="container" class="my-2">
+    <div id="dummy"></div>
+    <div id="element">
+    <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image">
+    </div>
+</div>
+
 I'm a Senior software engineer with over ten years of experience developing software in a broad range of fields from mobile and games development, to cloud systems integration and full stack web application development.
 
 When I'm not doing my day job, I'm currently focused on building a retro console from scratch (starting with a simulator). The project is called SIRC and can be found at [https://github.com/NoxHarmonium/sirc](https://github.com/NoxHarmonium/sirc)
